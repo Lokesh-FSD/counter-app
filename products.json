@@ -1,0 +1,220 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Room 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH3n5TOY4_f4mD1hOXpgIxmM1JZi-RA_96A&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Room 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH3n5TOY4_f4mD1hOXpgIxmM1JZi-RA_96A&usqp=CAU",
+            "price": "15000",
+            "description": "Best 5G Smart phone in the Market"
+          },
+          {
+            "name": "Redmi Mi Note 9 ",
+            "image": "https://i.gadgets360cdn.com/large/Redmi_note_9_series_sale_1596630010742.jpg",
+            "price": "25500",
+            "description": "New redmi mi note 9 ,with Quad core camera and 8gb Ram "
+          },
+          {
+            "name": "Oppo A2",
+            "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/06/oppo-a12-1591682308.jpg",
+            "price": "45000",
+            "description": "Oppo A2 lauched in India with 12Gb / 256 Gb storage"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Room 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbH3n5TOY4_f4mD1hOXpgIxmM1JZi-RA_96A&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "JbL Speakers ",
+            "image": "https://images.thdstatic.com/productImages/60fc762d-94f6-457f-8526-1719fa8b5055/svn/black-jbl-bluetooth-speakers-jbllinkmusicblkam-64_400.jpg",
+            "price": "450",
+            "description": "Buy the JBL speakers with ultra bass and 10 hours playback battery"
+          },
+          {
+            "name": "Boat Rockerz blutooth speaker",
+            "image": "https://i.gadgets360cdn.com/products/large/boat-stone-spinx-2.0-R-black-720x-800x901-1612032205.jpg",
+            "price": "450",
+            "description": "Buy the JBL speakers with ultra bass and 10 hours playback battery"
+          },
+          {
+            "name": "Mi blutooth  Speakers",
+            "image": "https://i0.wp.com/www.techmac.pk/wp-content/uploads/2021/03/Xiaomi-Mi-Compact-Bluetooth-Speaker-2-Techmac-Pakistan.jpg?fit=1000%2C1000&ssl=1",
+            "price": "550",
+            "description": "buy the latest ultra deep bass blutooth speaker powered by Xiomi"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Room 3",
+      "image": "https://pics.nuroa.com/furnished_room_for_rent_for_single_male_6450080648903560695.jpg",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Lenovo ideapad 4",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReyrjizHOgVIkXazTUJE6m5bMlG2yMp2jXZE25Nt-eIxi5KPr9wdDJAVzEr9mvTX_-ODU&usqp=CAU",
+            "price": "45000",
+            "description": "Buy the latest lenovo laptop having rizen 5 processor, 8GB Ram /1Tb hardisk"
+          },
+          {
+            "name": "Dell inspiron 3569",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41JXQ-nH6hL.jpg",
+            "price": "55000",
+            "description": "Buy the latest Dell laptop having  i9 processor, 8GB Ram /1Tb hardisk"
+          },
+          {
+            "name": "Hp Laptop 4bt3tu",
+            "image": "https://www.reliancedigital.in/medias/HP-15s-GR0011AU-Laptops-491936197-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDY2OHxpbWFnZS9qcGVnfGltYWdlcy9oNzQvaDQ1Lzk0NjI1NDIxMDY2NTQuanBnfGM3MzkxZTQzMWMwNWM3NmY0MGFhNDhlNmVjNTcxYTMzYTBlNGJkZmMyYmYxMTgxMjQ4MTQ0YjY0N2M4MjU2NTg",
+            "price": "65000",
+            "description": "Buy the latest Hp laptop having  i9 processor, 8GB Ram /1Tb hardisk"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Room 4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGowJAMOULq-g06gkN-6My3aLKQ5oQoqM573bLu-jVEKmLoRWFohKdQGIRc9LnLpHnsJc&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Boat Rockerz 400",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61stQYWQO4L._SX679_.jpg",
+            "price": "1450",
+            "description": "Buy the latest Boat Headphone with ultra deep bass and long playback upto 10 hours"
+          },
+          {
+            "name": "Jbl headphones",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZciK1KifZq_u9I0rj74BKW-CNlgByvNYShRPZJiuF-utOX__pF_U_MsdMuKxlRzpeYHo&usqp=CAU",
+            "price": "1250",
+            "description": "Buy the latest JBL Headphone with ultra deep bass and long playback upto 10 hours"
+          },
+          {
+            "name": "i ball headphones",
+            "image": "https://www.iball.co.in/secure/File/Product/Images/Paparazzi-BT-013-25-20191-04-40PM.png",
+            "price": "550",
+            "description": "Buy the latest i-ball Headphone with ultra deep bass and long playback upto 10 hours"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Room",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGowJAMOULq-g06gkN-6My3aLKQ5oQoqM573bLu-jVEKmLoRWFohKdQGIRc9LnLpHnsJc&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Boat Rockerz 400",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61stQYWQO4L._SX679_.jpg",
+            "price": "1450",
+            "description": "Buy the latest Boat Headphone with ultra deep bass and long playback upto 10 hours"
+          },
+          {
+            "name": "Jbl headphones",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZciK1KifZq_u9I0rj74BKW-CNlgByvNYShRPZJiuF-utOX__pF_U_MsdMuKxlRzpeYHo&usqp=CAU",
+            "price": "1250",
+            "description": "Buy the latest JBL Headphone with ultra deep bass and long playback upto 10 hours"
+          },
+          {
+            "name": "i ball headphones",
+            "image": "https://www.iball.co.in/secure/File/Product/Images/Paparazzi-BT-013-25-20191-04-40PM.png",
+            "price": "550",
+            "description": "Buy the latest i-ball Headphone with ultra deep bass and long playback upto 10 hours"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tiffin ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3f-lcn23jYyxGI7mDKCJMtyejD1PhGWQ2g&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Think Like a Monk",
+            "image": "https://m.media-amazon.com/images/I/81s6DUyQCZL._AC_UY218_.jpg",
+            "price": "1450",
+            "description": "Buy the latest Boat Headphone with ultra deep bass and long playback upto 10 hours"
+          },
+          {
+            "name": "Jbl headphones",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZciK1KifZq_u9I0rj74BKW-CNlgByvNYShRPZJiuF-utOX__pF_U_MsdMuKxlRzpeYHo&usqp=CAU",
+            "price": "1250",
+            "description": "Buy the latest JBL Headphone with ultra deep bass and long playback upto 10 hours"
+          },
+          {
+            "name": "i ball headphones",
+            "image": "https://www.iball.co.in/secure/File/Product/Images/Paparazzi-BT-013-25-20191-04-40PM.png",
+            "price": "550",
+            "description": "Buy the latest i-ball Headphone with ultra deep bass and long playback upto 10 hours"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Room 5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGowJAMOULq-g06gkN-6My3aLKQ5oQoqM573bLu-jVEKmLoRWFohKdQGIRc9LnLpHnsJc&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Blue Star 1.5 Ac ",
+            "image": "https://m.media-amazon.com/images/I/61RetQHk-fL._AC_UY218_.jpg",
+            "price": "34450",
+            "description": "Blue Star 1.5 Ton 3 Star Fixed Speed Split AC (Copper, FS318EBTU, 2021, White)"
+          },
+          {
+            "name": "Voltas 1.4 Ac",
+            "image": "https://m.media-amazon.com/images/I/71kjKPI8l9L._AC_UY218_.jpg",
+            "price": "22250",
+            "description": "Voltas 1.4 Ton 3 Star Fixed Speed Window AC (Copper, 2021 173 DZA, White), regular"
+          },
+          {
+            "name": "AmazonBasics 1.5 Ac",
+            "image": "https://m.media-amazon.com/images/I/71g-YgbuWvL._AC_UY218_.jpg",
+            "price": "33550",
+            "description": "AmazonBasics 1.5 Ton 3 Star 2021 Inverter Split AC, White"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Room 6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGowJAMOULq-g06gkN-6My3aLKQ5oQoqM573bLu-jVEKmLoRWFohKdQGIRc9LnLpHnsJc&usqp=CAU",
+      "subItemsData": {
+        "subItems": [
+          {
+            "name": "Blue Star 1.5 Ac ",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71H1-MnMc8L._SL1500_.jpg",
+            "price": "450",
+            "description": "Boldfit Gym Typhoon Shaker Bottle 650Ml, 100% Leakproof Guarantee Sipper Bottle Ideal for Protein, Preworkout and Bcaas, Bpa Free Material, Plastic, Black"
+          },
+          {
+            "name": "Protein Shaker",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/610N%2BIij05L._SL1000_.jpg",
+            "price": "250",
+            "description": "Spike Protein Shaker Blender Bottle for Whey Protein Mix, Cycling, Gym Water Bottle"
+          },
+          {
+            "name": "Nivia Sipper",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71ef3XOr7qL._SL1500_.jpg",
+            "price": "33550",
+            "description": "Nivia G 20-20 Plastic Sipper 600ml, (Black)"
+          }
+        ]
+      }
+    }
+  ]
+}
